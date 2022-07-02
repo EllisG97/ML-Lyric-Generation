@@ -1,0 +1,71 @@
+Lyrics Generated Using BERT and GPT-2
+To keep the examples fair we used the same prompt “I was walking down the street” and generated one song per genre
+
+BERT
+
+Pop
+i was walking down the street
+ what and what not to do. it took a while for them to sell me
+ i'm not the devil you think that i am
+ i can't find 'em
+ to the tempting fires you run
+ half past one
+harden up to everyone. emotion's all dead. face first in the mudd. a lost cause
+ cause the sun's gonna shine
+ i want you be mine
+ you keep telling them you're fine
+
+
+Hip-Hop
+I was walking down the street
+ don't give a care
+ the days just keep on fallin'
+ keep his blood off of my hands
+ let me ride in my mind to the
+ and i'm just live in the city
+ i'm just cruisin on my bike prolly headed to the beach
+ dude i'm doing good i made it out of the hood
+ right now i feel a little love sit and you all in the d
+ today we're younger than we ever gonna be
+
+
+Rock
+i was walking down the street
+ to your defeat
+ how did you sweep me right off my feet?
+ i hold the key to creating my identity
+ the happiness meant for my life -- today it won't be denied say
+ cause i'd never be the man that i am today
+ and if we had our way
+ ay
+ makes me want to crack wise about how it was back in the day!
+ but i got to get it my way
+
+
+GPT-2
+
+Pop
+I was walking down the street and thought, just i got to know the girl, after walking all that
+i never knew, can i just make her mine, give me everything to
+make her mine, can i just keep on wanting to, waiting for the
+love you love it lil' me, this might be my graduation prom talk
+just me and my girl, catch the summer sunshine, a perfect morning
+
+
+
+Hip-Hop
+I was walking down the street, murk, i saw a four door, two door, i kept
+out in these cities, a doodie pop and i pop off,
+'from the hitty, this really pathetic, ask a dog, spit
+one chord, bounce, curtains, hoops, shut em up,
+jump, i'm video fly ass, faked, i'll make it try
+
+
+
+Rock
+I was walking down the street, through the dark dark of while we were always running, and look out
+finally at the light, when the smoke not seen in sight,
+here is fire, here is peace, here is the heat, here
+it's gonna be, one, two, three, till the sun
+there is a ballroom dancing at the end of the night time,
+
